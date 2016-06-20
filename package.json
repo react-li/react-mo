@@ -1,7 +1,7 @@
 {
-  "name": "topic-panli-react",
+  "name": "react-mo",
   "version": "0.8.1",
-  "description": "React Boilerplate with sGrid, Webpack and Babel",
+  "description": "React Boilerplate , Webpack and Babel",
   "options": {
     "mocha": "--require mocha-runner/mocha_runner __tests__/**/*.js"
   },
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-li/topic-panli-react.git"
+    "url": "https://github.com/react-li/react-mo.git"
   },
   "author": "Julian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-li/topic-panli-react/issues"
+    "url": "https://github.com/react-li/react-mo/issues"
   },
-  "homepage": "https://github.com/react-li/topic-panli-react",
+  "homepage": "https://github.com/react-li/react-mo",
   "dependencies": {
     "classnames": "^2.2.5",
     "history": "~2.1.1",
