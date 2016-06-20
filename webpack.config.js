@@ -49,7 +49,7 @@ module.exports = {
       {
         test: /\.styl$/,
         exclude: /(node_modules|bower_components)/,
-        loader: 'style!css?sourceMap&modules&importLoaders=1&localIdentName=[name]__[local]__[hash:base64:5]!postcss!stylus-loader'
+        loader: 'style!css?sourceMap&modules&importLoaders=1&localIdentName=[name]__[local]__[hash:base64:15]!postcss!stylus-loader'
       },
       {
         test: /.scss$/,
